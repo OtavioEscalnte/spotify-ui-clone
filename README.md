@@ -30,7 +30,7 @@ Para rodar o projeto, siga os seguintes passos:
 
    `npm run dev`
 
-5. Acesse o projeto no seu navegador em `http://localhost:3000`.
+5. Acesse o projeto no seu navegador em `http://localhost:5173`.
 
 ## Contribuição
 

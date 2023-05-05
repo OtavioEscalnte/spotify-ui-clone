@@ -34,4 +34,4 @@ Para rodar o projeto, siga os seguintes passos:
 
 ## Contribuição
 
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/OtavioEscalnte/spotify-ui-clone/issues) ou enviar um [pull request](https://github.com/OtavioEscalnte/spotify-ui-clone/pulls) para ajudar a melhorar este projeto.
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/OtavioEscalnte/spotify-ui-clone/issues) ou enviar um [pull request](https://github.com/OtavioEscalnte/spotify-ui-clone/pulls) para ajudar.
